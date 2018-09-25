@@ -1,5 +1,8 @@
 _repo: The-Silver-Caves-A-Mining-Story_57345
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57345-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Ingersoll, Ernest
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '39898'
     url: http://www.gutenberg.org/2009/agents/39898
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57345#The-Silver-Caves-A-Mining-Story
 gutenberg_issued: '2018-06-17'
 gutenberg_type: Text
 identifiers:
